@@ -4,7 +4,9 @@
 </div>
 <h4 align="center">Programa de análisis, procesamiento y simulación de señales acústicas en campo sonoro libre y cerrado.</h4>
 <div style="display: grid; grid-template-columns: 1fr; gap: 20px; justify-items: center; margin: 20px auto; max-width: 1400px;">
-  <img width="911" height="450" src="https://github.com/user-attachments/assets/c0ee5dc8-1b0e-43ac-86e1-7481361b6eab" style="max-width: 100%; height: auto;" />
+  <!--<img width="911" height="450" src="https://github.com/user-attachments/assets/c0ee5dc8-1b0e-43ac-86e1-7481361b6eab" style="max-width: 100%; height: auto;" />-->
+  <img width="911" height="450" src="https://github.com/user-attachments/assets/ec83b955-4ae9-4462-8902-367b44586f29" style="max-width: 100%; height: auto;" />
+
   <!--<img width="1359" height="704" alt="Screenshot 2025-08-05 153500" src="https://github.com/user-attachments/assets/adf0a736-a3d1-4ae6-b483-bf177c772d87" style="max-width: 100%; height: auto;" />-->
   <!--<img width="911" height="450" src="https://github.com/user-attachments/assets/b31240cd-6659-4ed0-b0d1-d69b59c91af9" style="max-width: 100%; height: auto;" /> -->
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;"> 
